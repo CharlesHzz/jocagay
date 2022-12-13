@@ -319,6 +319,7 @@ body{
         color: #fff;
     }
     .textos h2{
+        display: none;
         text-transform: uppercase;
         letter-spacing: 09px;
         font-size: 07px;
